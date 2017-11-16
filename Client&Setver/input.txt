@@ -1,0 +1,9 @@
+<?xml version = "1.0"?>
+<class>
+   <student rollno = "393">
+      <firstname>Marko</firstname>
+      <lastname>First</lastname>
+      <nickname>MarkoFirst</nickname>
+      <marks>100</marks>
+   </student>
+</class>
